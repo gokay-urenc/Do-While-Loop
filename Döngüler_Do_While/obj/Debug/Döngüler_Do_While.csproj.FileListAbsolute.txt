@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\bin\Debug\Döngüler_Do_While.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\bin\Debug\Döngüler_Do_While.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\bin\Debug\Döngüler_Do_While.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\obj\Debug\Döngüler_Do_While.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\obj\Debug\Döngüler_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\obj\Debug\Döngüler_Do_While.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_Do_While\Döngüler_Do_While\obj\Debug\Döngüler_Do_While.pdb
